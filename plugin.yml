@@ -1,5 +1,5 @@
 name: CustomEnchants
-main: CustomEnchants\MainClass
+main: CE\MainClass
 version: 1.0.0
 api: [2.0.0]
 author: NetworkGG team
