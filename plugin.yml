@@ -1,0 +1,6 @@
+name: CustomEnchants
+main: CustomEnchants\MainClass
+version: 1.0.0
+api: [2.0.0]
+author: NetworkGG team
+description: Enchant your weapons and armor with special new enchants!
