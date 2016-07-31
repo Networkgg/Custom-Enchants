@@ -1,1 +1,39 @@
+Swords:
+
+Explosion -
+
+Depending on the enchant level, that is the percentage of which at random you could deal an extra amount of damage in a small explosion onto the opposite player as well as dealing some leading knockback.
+
+Fireball -
+
+Depending on the enchant level, that is the percentage of which at random you could spawn a fireball to shoot at your enemy.
+
+Lightning -
+
+Depending on the enchant level, that is the percentage of which at random you could strike your enemy with a powerful lightning strik.
+
+Freeze -
+
+Depending on the enchant level, that is the percentage of which at random you could freeze your oppenent in place.
+
+Spook -
+
+Depending on the enchant level, that is the percentage of which at random you could spawn a pumpkin onto your enemys head. Disorienting and possible scaring them.
+
+======================================================================================================================================
+
+Helmets:
+
+
+
+Chestplates:
+
+
+
+Leggings:
+
+
+
+Boots:
+
 
